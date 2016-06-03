@@ -1,0 +1,15 @@
+body {
+  margin: 0 auto;
+  background: #ccc;
+}
+
+.container {
+  width: 1000px;
+  margin: 50px auto;
+}
+
+canvas {
+  margin: 0 auto;
+  background: white;
+}
+
