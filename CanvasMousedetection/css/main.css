@@ -13,3 +13,6 @@ canvas {
   background: white;
 }
 
+canvas:hover {
+  cursor: none;
+}
