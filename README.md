@@ -1,4 +1,4 @@
-## CanvasMouseMoveDetectiobn
+## CanvasMouseMoveDetection
 Detection mouse move with add circles at trajectory
 
 ## Installation
